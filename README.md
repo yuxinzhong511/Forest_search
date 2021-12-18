@@ -1,6 +1,9 @@
 # Forest_search
 SI507_final_project
 
+Required Python Packages：
+plotly, numpy, requests, bs4
+
 Running instruction:
 1. clone the git repository to your local
 2. open the folder the repo is in, and run python m.py or python3 m.py according to your configuration in your terminal
