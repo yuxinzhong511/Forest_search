@@ -1,0 +1,945 @@
+{
+  "allegheny-national-forest": {
+    "size": 23100,
+    "fishing": 2,
+    "camping": 1,
+    "state": [
+      "Pennsylvania"
+    ]
+  },
+  "angeles": {
+    "size": 650000,
+    "fishing": 2,
+    "camping": 2,
+    "state": [
+      "California"
+    ]
+  },
+  "apache-sitgreaves-national-forest": {
+    "size": null,
+    "fishing": 2,
+    "camping": 2,
+    "state": [
+      "Arizona"
+    ]
+  },
+  "arapaho-roosevelt-natl-forest-and-pawnee-natl-grassland": {
+    "size": 36000,
+    "fishing": 2,
+    "camping": 2,
+    "state": [
+      "Colorado"
+    ]
+  },
+  "ashley-national-forest": {
+    "size": null,
+    "fishing": 2,
+    "camping": 2,
+    "state": [
+      "Utah"
+    ]
+  },
+  "beaverhead-deerlodge-national-forest": {
+    "size": null,
+    "fishing": 2,
+    "camping": 2,
+    "state": [
+      "Montana"
+    ]
+  },
+  "bighorn-national-forest": {
+    "size": 189000,
+    "fishing": 2,
+    "camping": 1,
+    "state": [
+      "Wyoming"
+    ]
+  },
+  "bitterroot-national-forest": {
+    "size": 743000,
+    "fishing": 2,
+    "camping": 1,
+    "state": [
+      "Montana"
+    ]
+  },
+  "black-hills-national-forest": {
+    "size": 13000,
+    "fishing": 2,
+    "camping": 1,
+    "state": [
+      "South Dakota",
+      "Wyoming"
+    ]
+  },
+  "boise-national-forest": {
+    "size": 2612000,
+    "fishing": 3,
+    "camping": 1,
+    "state": [
+      "Idaho"
+    ]
+  },
+  "bridger-teton-national-forest": {
+    "size": null,
+    "fishing": 1,
+    "camping": 2,
+    "state": [
+      "Wyoming"
+    ]
+  },
+  "caribou-targhee-national-forest": {
+    "size": null,
+    "fishing": 2,
+    "camping": 3,
+    "state": [
+      "Idaho",
+      "Wyoming"
+    ]
+  },
+  "carson-national-forest": {
+    "size": null,
+    "fishing": 2,
+    "camping": 4,
+    "state": [
+      "New Mexico"
+    ]
+  },
+  "chattahoochee-oconee-national-forests": {
+    "size": 15300,
+    "fishing": 3,
+    "camping": 2,
+    "state": [
+      "Georgia"
+    ]
+  },
+  "chequamegon-nicolet-national-forest": {
+    "size": null,
+    "fishing": 2,
+    "camping": 1,
+    "state": [
+      "Wisconsin"
+    ]
+  },
+  "cherokee-national-forest": {
+    "size": null,
+    "fishing": 2,
+    "camping": 1,
+    "state": [
+      "North Carolina",
+      "Tennessee"
+    ]
+  },
+  "chippewa-national-forest": {
+    "size": null,
+    "fishing": 1,
+    "camping": 1,
+    "state": [
+      "Minnesota"
+    ]
+  },
+  "chugach-national-forest": {
+    "size": null,
+    "fishing": 6,
+    "camping": 2,
+    "state": [
+      "Alaska"
+    ]
+  },
+  "cibola-national-forest": {
+    "size": 1625542,
+    "fishing": 2,
+    "camping": 1,
+    "state": [
+      "New Mexico",
+      "Oklahoma",
+      "Texas"
+    ]
+  },
+  "cleveland": {
+    "size": 460000,
+    "fishing": 1,
+    "camping": 2,
+    "state": [
+      "California"
+    ]
+  },
+  "coconino-national-forest": {
+    "size": null,
+    "fishing": 3,
+    "camping": 2,
+    "state": [
+      "Arizona"
+    ]
+  },
+  "columbia-river-gorge-national-scenic-area": {
+    "size": 292500,
+    "fishing": 0,
+    "camping": 0,
+    "state": [
+      "Oregon",
+      "Washington"
+    ]
+  },
+  "colville-national-forest": {
+    "size": null,
+    "fishing": 4,
+    "camping": 2,
+    "state": [
+      "Washington"
+    ]
+  },
+  "coronado-national-forest": {
+    "size": 1780000,
+    "fishing": 1,
+    "camping": 2,
+    "state": [
+      "Arizona",
+      "New Mexico"
+    ]
+  },
+  "crooked-river-national-grasslands": {
+    "size": null,
+    "fishing": 2,
+    "camping": 2,
+    "state": [
+      "Oregon"
+    ]
+  },
+  "custer-gallatin-national-forest": {
+    "size": null,
+    "fishing": 2,
+    "camping": 2,
+    "state": [
+      "Montana"
+    ]
+  },
+  "dakota-prairie-grasslands": {
+    "size": null,
+    "fishing": 1,
+    "camping": 2,
+    "state": [
+      "North Dakota",
+      "South Dakota"
+    ]
+  },
+  "daniel-boone-national-forest": {
+    "size": 7610,
+    "fishing": 1,
+    "camping": 1,
+    "state": [
+      "Kentucky"
+    ]
+  },
+  "deschutes": {
+    "size": null,
+    "fishing": 0,
+    "camping": 1,
+    "state": [
+      "Oregon"
+    ]
+  },
+  "dixie-national-forest": {
+    "size": null,
+    "fishing": 3,
+    "camping": 3,
+    "state": [
+      "Utah"
+    ]
+  },
+  "elyunque-national-forest": {
+    "size": null,
+    "fishing": 0,
+    "camping": 0,
+    "state": [
+      "Puerto Rico"
+    ]
+  },
+  "eldorado": {
+    "size": null,
+    "fishing": 2,
+    "camping": 1,
+    "state": [
+      "California"
+    ]
+  },
+  "finger-lakes-national-forest": {
+    "size": 1400,
+    "fishing": 2,
+    "camping": 1,
+    "state": [
+      "New York"
+    ]
+  },
+  "fishlake-national-forest": {
+    "size": null,
+    "fishing": 3,
+    "camping": 1,
+    "state": [
+      "Utah"
+    ]
+  },
+  "flathead-national-forest": {
+    "size": null,
+    "fishing": 3,
+    "camping": 2,
+    "state": [
+      "Montana"
+    ]
+  },
+  "francis-marion-and-sumter-national-forests": {
+    "size": 600000,
+    "fishing": 3,
+    "camping": 1,
+    "state": [
+      "South Carolina"
+    ]
+  },
+  "fremont-winema-national-forests": {
+    "size": null,
+    "fishing": 1,
+    "camping": 2,
+    "state": [
+      "Oregon"
+    ]
+  },
+  "gallatin-national-forest": {
+    "size": null,
+    "fishing": 2,
+    "camping": 2,
+    "state": [
+      "Montana"
+    ]
+  },
+  "george-washington-and-jefferson-national-forests": {
+    "size": null,
+    "fishing": 2,
+    "camping": 2,
+    "state": [
+      "Kentucky",
+      "Virginia",
+      "West Virginia"
+    ]
+  },
+  "gifford-pinchot-national-forest": {
+    "size": 1312000,
+    "fishing": 1,
+    "camping": 1,
+    "state": [
+      "Washington"
+    ]
+  },
+  "gila-national-forest": {
+    "size": null,
+    "fishing": 3,
+    "camping": 3,
+    "state": [
+      "New Mexico"
+    ]
+  },
+  "grand-mesa-uncompahgre-and-gunnison-national-forests": {
+    "size": null,
+    "fishing": 1,
+    "camping": 1,
+    "state": [
+      "Colorado"
+    ]
+  },
+  "green-mountain-national-forest": {
+    "size": 821000,
+    "fishing": 3,
+    "camping": 2,
+    "state": [
+      "Vermont"
+    ]
+  },
+  "helena-lewis-and-clark-national-forest": {
+    "size": null,
+    "fishing": 1,
+    "camping": 1,
+    "state": [
+      "Montana"
+    ]
+  },
+  "hells-canyon-national-recreation-area": {
+    "size": null,
+    "fishing": 1,
+    "camping": 1,
+    "state": [
+      "Idaho"
+    ]
+  },
+  "hiawatha-national-forest": {
+    "size": null,
+    "fishing": 3,
+    "camping": 1,
+    "state": [
+      "Michigan"
+    ]
+  },
+  "hoosier-national-forest": {
+    "size": null,
+    "fishing": 1,
+    "camping": 1,
+    "state": [
+      "Indiana"
+    ]
+  },
+  "humboldt-toiyabe": {
+    "size": null,
+    "fishing": 1,
+    "camping": 2,
+    "state": [
+      "California",
+      "Nevada"
+    ]
+  },
+  "huron-manistee-national-forests": {
+    "size": null,
+    "fishing": 2,
+    "camping": 1,
+    "state": [
+      "Michigan"
+    ]
+  },
+  "idaho-panhandle-national-forest": {
+    "size": null,
+    "fishing": 4,
+    "camping": 2,
+    "state": [
+      "Idaho",
+      "Montana",
+      "Washington"
+    ]
+  },
+  "inyo": {
+    "size": null,
+    "fishing": 2,
+    "camping": 2,
+    "state": [
+      "California"
+    ]
+  },
+  "kaibab-national-forest": {
+    "size": 70,
+    "fishing": 4,
+    "camping": 1,
+    "state": [
+      "Arizona"
+    ]
+  },
+  "kisatchie-national-forest": {
+    "size": null,
+    "fishing": 2,
+    "camping": 4,
+    "state": [
+      "Louisiana"
+    ]
+  },
+  "klamath": {
+    "size": null,
+    "fishing": 2,
+    "camping": 1,
+    "state": [
+      "California",
+      "Oregon"
+    ]
+  },
+  "kootenai-national-forest": {
+    "size": null,
+    "fishing": 2,
+    "camping": 2,
+    "state": [
+      "Idaho",
+      "Montana"
+    ]
+  },
+  "lake-tahoe-basin-national-forests": {
+    "size": null,
+    "fishing": 1,
+    "camping": 2,
+    "state": [
+      "California",
+      "Nevada"
+    ]
+  },
+  "lassen": {
+    "size": null,
+    "fishing": 2,
+    "camping": 2,
+    "state": [
+      "California"
+    ]
+  },
+  "lincoln-national-forest": {
+    "size": null,
+    "fishing": 2,
+    "camping": 3,
+    "state": [
+      "New Mexico"
+    ]
+  },
+  "lolo-national-forest": {
+    "size": null,
+    "fishing": 2,
+    "camping": 1,
+    "state": [
+      "Montana"
+    ]
+  },
+  "los-padres": {
+    "size": null,
+    "fishing": 2,
+    "camping": 2,
+    "state": [
+      "California"
+    ]
+  },
+  "malheur-national-forest": {
+    "size": null,
+    "fishing": 2,
+    "camping": 4,
+    "state": [
+      "Oregon"
+    ]
+  },
+  "manti-la-sal-national-forest": {
+    "size": null,
+    "fishing": 1,
+    "camping": 1,
+    "state": [
+      "Utah"
+    ]
+  },
+  "mark-twain-national-forest": {
+    "size": null,
+    "fishing": 1,
+    "camping": 1,
+    "state": [
+      "Missouri"
+    ]
+  },
+  "medicine-bow-and-routt-national-forests": {
+    "size": null,
+    "fishing": 3,
+    "camping": 3,
+    "state": [
+      "Colorado",
+      "Wyoming"
+    ]
+  },
+  "mendocino": {
+    "size": null,
+    "fishing": 2,
+    "camping": 2,
+    "state": [
+      "California"
+    ]
+  },
+  "midewin-tallgrass-prairie": {
+    "size": 19165,
+    "fishing": 0,
+    "camping": 1,
+    "state": [
+      "Illinois"
+    ]
+  },
+  "modoc": {
+    "size": null,
+    "fishing": 2,
+    "camping": 2,
+    "state": [
+      "California"
+    ]
+  },
+  "monongahela-national-forest": {
+    "size": 114,
+    "fishing": 2,
+    "camping": 1,
+    "state": [
+      "West Virginia"
+    ]
+  },
+  "mt-baker-snoqualmie-national-forest": {
+    "size": null,
+    "fishing": 2,
+    "camping": 1,
+    "state": [
+      "Washington"
+    ]
+  },
+  "mt-hood-national-forest": {
+    "size": 1067043,
+    "fishing": 1,
+    "camping": 1,
+    "state": [
+      "Oregon"
+    ]
+  },
+  "alabama-forests": {
+    "size": 667000,
+    "fishing": 3,
+    "camping": 2,
+    "state": [
+      "Alabama"
+    ]
+  },
+  "florida-forests": {
+    "size": null,
+    "fishing": 2,
+    "camping": 3,
+    "state": [
+      "Florida"
+    ]
+  },
+  "mississippi-national-forests": {
+    "size": null,
+    "fishing": 5,
+    "camping": 3,
+    "state": [
+      "Mississippi"
+    ]
+  },
+  "north-carolina-national-forests": {
+    "size": 38000,
+    "fishing": 1,
+    "camping": 0,
+    "state": [
+      "North Carolina"
+    ]
+  },
+  "angelina-davy-crockett-sabine-sam-houston-caddo-lbj-national-forests": {
+    "size": 675000,
+    "fishing": 4,
+    "camping": 2,
+    "state": [
+      "Texas"
+    ]
+  },
+  "nebraska-samuel-r-mckelvie-national-forests": {
+    "size": null,
+    "fishing": 2,
+    "camping": 2,
+    "state": [
+      "Nebraska",
+      "South Dakota"
+    ]
+  },
+  "nez-perce-clearwater-national-forest": {
+    "size": null,
+    "fishing": 1,
+    "camping": 1,
+    "state": [
+      "Idaho"
+    ]
+  },
+  "ochoco-national-forest": {
+    "size": 850000,
+    "fishing": 2,
+    "camping": 2,
+    "state": [
+      "Oregon"
+    ]
+  },
+  "wenatchee-national-forest": {
+    "size": null,
+    "fishing": 1,
+    "camping": 1,
+    "state": [
+      "Washington"
+    ]
+  },
+  "olympic-national-forest": {
+    "size": null,
+    "fishing": 1,
+    "camping": 1,
+    "state": [
+      "Washington"
+    ]
+  },
+  "ottawa-national-forest": {
+    "size": null,
+    "fishing": 2,
+    "camping": 2,
+    "state": [
+      "Michigan"
+    ]
+  },
+  "ouachita-national-forest": {
+    "size": null,
+    "fishing": 3,
+    "camping": 3,
+    "state": [
+      "Arkansas",
+      "Oklahoma"
+    ]
+  },
+  "ozark-st-francis-national-forest": {
+    "size": null,
+    "fishing": 2,
+    "camping": 2,
+    "state": [
+      "Arkansas"
+    ]
+  },
+  "payette-national-forest": {
+    "size": null,
+    "fishing": 3,
+    "camping": 4,
+    "state": [
+      "Idaho"
+    ]
+  },
+  "pike-and-san-isabel-national-forests": {
+    "size": 73000,
+    "fishing": 2,
+    "camping": 2,
+    "state": [
+      "Colorado",
+      "Kansas"
+    ]
+  },
+  "plumas": {
+    "size": null,
+    "fishing": 1,
+    "camping": 2,
+    "state": [
+      "California"
+    ]
+  },
+  "prescott-national-forest": {
+    "size": null,
+    "fishing": 2,
+    "camping": 3,
+    "state": [
+      "Arizona"
+    ]
+  },
+  "rio-grande-national-forest": {
+    "size": null,
+    "fishing": 1,
+    "camping": 1,
+    "state": [
+      "Colorado"
+    ]
+  },
+  "rogue-river-siskiyou": {
+    "size": null,
+    "fishing": 2,
+    "camping": 1,
+    "state": [
+      "California",
+      "Oregon"
+    ]
+  },
+  "rogue-river-siskiyou-national-forest": {
+    "size": null,
+    "fishing": 1,
+    "camping": 2,
+    "state": [
+      "Oregon"
+    ]
+  },
+  "salmon-challis-national-forest": {
+    "size": null,
+    "fishing": 2,
+    "camping": 2,
+    "state": [
+      "Idaho"
+    ]
+  },
+  "san-bernardino": {
+    "size": null,
+    "fishing": 3,
+    "camping": 2,
+    "state": [
+      "California"
+    ]
+  },
+  "san-juan": {
+    "size": null,
+    "fishing": 1,
+    "camping": 1,
+    "state": [
+      "Colorado"
+    ]
+  },
+  "santa-fe-national-forest": {
+    "size": null,
+    "fishing": 2,
+    "camping": 2,
+    "state": [
+      "New Mexico"
+    ]
+  },
+  "sawtooth-national-forest": {
+    "size": null,
+    "fishing": 2,
+    "camping": 1,
+    "state": [
+      "Idaho"
+    ]
+  },
+  "sequoia": {
+    "size": null,
+    "fishing": 2,
+    "camping": 1,
+    "state": [
+      "California"
+    ]
+  },
+  "shasta-trinity": {
+    "size": null,
+    "fishing": 2,
+    "camping": 2,
+    "state": [
+      "California"
+    ]
+  },
+  "shawnee-national-forest": {
+    "size": null,
+    "fishing": 2,
+    "camping": 1,
+    "state": [
+      "Illinois"
+    ]
+  },
+  "shoshone-national-forest": {
+    "size": null,
+    "fishing": 2,
+    "camping": 2,
+    "state": [
+      "Wyoming"
+    ]
+  },
+  "sierra": {
+    "size": null,
+    "fishing": 3,
+    "camping": 3,
+    "state": [
+      "California"
+    ]
+  },
+  "siuslaw-national-forest": {
+    "size": 630000,
+    "fishing": 1,
+    "camping": 1,
+    "state": [
+      "Oregon"
+    ]
+  },
+  "six-rivers": {
+    "size": null,
+    "fishing": 0,
+    "camping": 0,
+    "state": [
+      "California"
+    ]
+  },
+  "stanislaus-national-forest": {
+    "size": null,
+    "fishing": 2,
+    "camping": 2,
+    "state": [
+      "California",
+      "Nevada"
+    ]
+  },
+  "superior-national-forest": {
+    "size": null,
+    "fishing": 1,
+    "camping": 2,
+    "state": [
+      "Minnesota"
+    ]
+  },
+  "tahoe": {
+    "size": null,
+    "fishing": 1,
+    "camping": 1,
+    "state": [
+      "California"
+    ]
+  },
+  "tongass-national-forest": {
+    "size": null,
+    "fishing": 1,
+    "camping": 0,
+    "state": [
+      "Alaska"
+    ]
+  },
+  "tonto-national-forest": {
+    "size": null,
+    "fishing": 1,
+    "camping": 1,
+    "state": [
+      "Arizona"
+    ]
+  },
+  "uinta-national-forest": {
+    "size": null,
+    "fishing": 3,
+    "camping": 3,
+    "state": [
+      "Utah"
+    ]
+  },
+  "umatilla-national-forest": {
+    "size": null,
+    "fishing": 2,
+    "camping": 2,
+    "state": [
+      "Oregon",
+      "Washington"
+    ]
+  },
+  "umpqua-national-forest": {
+    "size": 26350,
+    "fishing": 1,
+    "camping": 1,
+    "state": [
+      "Oregon"
+    ]
+  },
+  "wallowa-whitman-national-forest": {
+    "size": null,
+    "fishing": 1,
+    "camping": 1,
+    "state": [
+      "Oregon"
+    ]
+  },
+  "wayne-national-forest": {
+    "size": 833990,
+    "fishing": 1,
+    "camping": 1,
+    "state": [
+      "Ohio"
+    ]
+  },
+  "white-mountain-national-forest": {
+    "size": null,
+    "fishing": 1,
+    "camping": 1,
+    "state": [
+      "New Hampshire"
+    ]
+  },
+  "white-river-national-forest": {
+    "size": null,
+    "fishing": 1,
+    "camping": 1,
+    "state": [
+      "Colorado"
+    ]
+  },
+  "willamette-national-forest": {
+    "size": 380805,
+    "fishing": 1,
+    "camping": 1,
+    "state": [
+      "Oregon"
+    ]
+  }
+}
